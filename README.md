@@ -1,2 +1,2 @@
 # automatic-fiesta
-My project
+My coursera project from Hong Kong University for full stack web developer.
